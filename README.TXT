@@ -4,9 +4,9 @@
 个部分：
 ------------------------------------------------------------------------
 
-工程名：
-工程的目标：
-版本或者日期：
-如何启动这个工程：
-作者
+工程名：Find treasures
+工程的目标：A small game for two people. Players can freely determine the size of the map and the number of treasures. Each time both players input the coordinates they are looking for, the player who inputs the correct coordinates will score points. The player with the highest score wins when the treasure is found.
+版本或者日期：final edition
+如何启动这个工程：Run Main.
+作者 Song Tianxiang
 使用指南：
