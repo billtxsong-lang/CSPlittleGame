@@ -1,0 +1,12 @@
+# 忽略编译后的 Java 字节码文件
+*.class
+
+# 忽略 BlueJ 产生的上下文环境文件
+*.ctxt
+
+# 忽略 BlueJ 的项目结构配置（通常不需要上传）
+package.bluej
+
+# 忽略 Mac / Windows 系统自动生成的隐藏垃圾文件
+.DS_Store
+Thumbs.db
